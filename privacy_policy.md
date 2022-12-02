@@ -46,4 +46,4 @@ All data is stored and processed in Frankfurt (Germany).
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *[xxx@email.com]*  
+Email: lara.kreisz@gmx.de  
