@@ -31,11 +31,10 @@ Fashion Lookbook is a digital fashion lookbook application provided by Cuteberry
 
 11. Changes to This Privacy Policy
 
-***
-***
-***
+----------------
 
-###### 1. How We Collect and Use Your Personal Information
+
+#### 1. How We Collect and Use Your Personal Information
 
 - Provide you with products and/or services：When you create lookbooks or later on add outfits to already existing lookbooks, but also when you add a user profile picture, **we need permission to access your local media to select images. Later on as soon as you hit the "save/next" button, this lookbooks and outfits will be uploaded and stored in our Firebase Database / Cloud Storage in Frankfurt, Germany. At any time you can delete all previously created lookbooks and outfits and thereby remove them from our Firebase Database / Cloud Storage in Frankfurt, Germany. The only reason for storing them in our Firebase Database / Cloud Storage in Frankfurt, Germany is to keep them save, in case you lose your phone, to allow you to free up space on your phone while keeping all lookboosk and outfits and also to make it possible, that you can share them with other people, if you want to.**
 
