@@ -82,16 +82,17 @@ Cookies are text files created on your device by the web server. In order to pro
 
     Firebase SDK: 
 
-    **Firebase Authentication:** Allows you to sign up and create an account. Later on allows you to authenticate and log in. https://policies.google.com/privacy
+    **Firebase Authentication:** Allows you to sign up and create an account. Later on allows you to authenticate and log in. 
 
-    **Firebase App Check:** Provides an additional security layer. https://policies.google.com/privacy
+    **Firebase App Check:** Provides an additional security layer. 
 
-    **Firebase Cloud Storage:** Stores your pictures. https://policies.google.com/privacy
+    **Firebase Cloud Storage:** Stores your pictures. 
 
-    **Firebase Database:** Stores all documents, that are required to provide our service e.g. lookbooks, outfits, ... https://policies.google.com/privacy
+    **Firebase Database:** Stores all documents, that are required to provide our service e.g. lookbooks, outfits, ... 
 
     **Firebase Cloud Functions:** We use cloud functions to do the "heavy lifting" in the background, which is required to give you a smooth user experience. Cloud functions are used whenever you follow or unfollow a lookbook or whenever you like or unlike a post. Those action could be perfomrmed through using your smartphones RAM, but it would be much slower. Whenever a cloud function will be triggered, the execution will take place in Firebase's data center in Frankfurt, Germany.
-    https://policies.google.com/privacy
+    
+    [Firebase SDK Privacy Policy](https://policies.google.com/privacy)
 
 
 - Transfer
