@@ -1,49 +1,209 @@
 Privacy Policy  
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Fashion Lookbook, how Fashion Lookbook uses it, and what choices you have.
-Fashion Lookbook built the Fashion Lookbook app as a subscription app. This SERVICE is provided by Fashion Lookbook at a minimal price of 1,49€ / month after a free 3 month trial and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Effective Date：November 1, 2022
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+Fashion Lookbook is a digital fashion lookbook application provided by Cuteberry UG (haftungsbeschränkt). Fashion Lookbook respects and protects users’ personal privacy. Please put more emphasis on the bolded terms in this policy, which have a significant relationship with your rights and interests (possibly). Before using or continuing to use our products and services, please read carefully and fully understand this policy.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+**This policy stipulates the personal information of minors in Article 9. If you are the legal guardian of the relevant minor user, please read carefully the terms on the protection of minor information and choose whether to agree to this policy. At the same time, please teach minors to enhance their personal information protection awareness and ability, and do not provide any personal information to any product and service provider without your consent; If you are a relevant minor user, please read this policy carefully with the accompany and help of your parents or guardians, and use our products and services or provide us with information with the consent of your parents or guardians.**
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+**To give you an overview, this Privacy Policy is structured as follows:**
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+1. How We Collect and Use Your Personal Information
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+2. How We Use Cookies
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+3. Why We Collect Your Personal Information
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+4. How We Share, Transfer, and Publicly Disclose Your Personal Information
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+5. Your Rights
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+6. How We Store and Protect Your Personal Information
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+7. To California Residents
 
-### Server and Cloud Location
-All data is stored and processed in Frankfurt (Germany).
+8. To EU Users
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: lara.kreisz@gmx.de  
+9. Children Under 13
+
+10. Contact Us
+
+11. Changes to This Privacy Policy
+
+***
+***
+***
+
+###### 1. How We Collect and Use Your Personal Information
+
+- Provide you with products and/or services：When you create lookbooks or later on add outfits to already existing lookbooks, but also when you add a user profile picture, **we need permission to access your local media to select images. Later on as soon as you hit the "save/next" button, this lookbooks and outfits will be uploaded and stored in our Firebase Database / Cloud Storage in Frankfurt, Germany. At any time you can delete all previously created lookbooks and outfits and thereby remove them from our Firebase Database / Cloud Storage in Frankfurt, Germany. The only reason for storing them in our Firebase Database / Cloud Storage in Frankfurt, Germany is to keep them save, in case you lose your phone, to allow you to free up space on your phone while keeping all lookboosk and outfits and also to make it possible, that you can share them with other people, if you want to.**
+
+- **Customer service and after-sales service:** When you send feedback via email or provide us with an error report, **we will obtain your username, email address, and email content**, so that we can communicate with you about problems encountered during the use of our products and services.
+
+***
+***
+***
+
+###### 2. How We Use Cookies
+
+Cookies are text files created on your device by the web server. In order to provide a better service, we may use related technologies to send one or more cookies to your device to collect and store information about the use of this product. The specific usage is as follows: Help you simplify the visit experience. Cookies can help you call up information during subsequent visits, simplify the process of recording and filling in personal information, and allow you to have a more relaxed visit experience.
+
+***
+***
+***
+
+###### 3. Why We Collect Your Personal Information
+
+- In response to your request.
+
+- In order to communicate with you.
+
+- In order to improve our service.
+
+- Other purposes related to our business.
+
+- To comply with laws and regulations.
+
+***
+***
+***
+
+###### 4. How We Share, Transfer, and Publicly Disclose Your Personal Information
+
+- **Share**
+
+    We promise to keep your personal information confidential. Except for the scenarios stipulated in this policy, we only share your necessary information with third parties in the following situations:
+
+    1）Have obtained your explicit consent or authorization.
+
+    2）When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial requirements.
+
+    3）When achieving the purposes described in the section "How We Collect and Use Your Personal Information".
+
+    4）Share with technical support partners.
+
+    **In order to provide you with more complete and high-quality products and services, we may share some of your personal information with our partners. Please note that we will only share your personal information for legal, legitimate, necessary, specific and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal information, we will terminate the partnership immediately and pursue legal responsibility.**
+
+    Third-party SDKs that may be accessed:
+
+    Firebase SDK: 
+
+    **Firebase Authentication:** Allows you to sign up and create an account. Later on allows you to authenticate and log in. https://policies.google.com/privacy
+
+    **Firebase App Check:** Provides an additional security layer. https://policies.google.com/privacy
+
+    **Firebase Cloud Storage:** Stores your pictures. https://policies.google.com/privacy
+
+    **Firebase Database:** Stores all documents, that are required to provide our service e.g. lookbooks, outfits, ... https://policies.google.com/privacy
+
+    **Firebase Cloud Functions:** We use cloud functions to do the "heavy lifting" in the background, which is required to give you a smooth user experience. Cloud functions are used whenever you follow or unfollow a lookbook or whenever you like or unlike a post. Those action could be perfomrmed through using your smartphones RAM, but it would be much slower. Whenever a cloud function will be triggered, the execution will take place in Firebase's data center in Frankfurt, Germany.
+    https://policies.google.com/privacy
+
+
+- Transfer
+
+    Except for the requirements of laws and regulations, mandatory administrative law enforcement, judicial or regulatory requirements, we will not transfer your personal information to any company, organization or individual.
+
+- Publicly disclose
+
+    We only disclose your personal information in the following situations:
+
+    1）According to your needs, disclose your designated personal information in a disclosure method that you explicitly agree to.
+
+    2）According to the requirements of laws, regulations, mandatory administrative law enforcement, judicial or regulatory agencies, where it is necessary to provide your personal information, we may publicly disclose your personal information based on the type of personal information requested and the method of disclosure.
+
+***
+***
+***
+
+###### 5. Your Rights
+
+Under applicable laws of your jurisdiction, you may have one or more of the rights to your personal information. These rights may include (if relevant): 
+
+- Provide you with information we collect about you.
+
+- Device permissions.You may revoke any permissions you have granted to us before, such as permission to access your camera roll.
+
+- Delete.
+
+You can exercise your rights above by emailing us at lara.kreisz@gmx.de or you may do it by yourself through our App services or the setting on your mobile device. If you are a California resident, please refer to the “To California Residents” section. And if you are an EU user, please refer to the “To EU Users” section.
+
+***
+***
+***
+
+###### 6. How We Store and Protect Your Personal Information
+
+- In order to provide our services, Fashion Lookbook will store the contents of whatever you create (eg. lookbooks, outfits, ...) and also whatever you disclose (user information to create or enhance your user account) in the Firebase data center in Frankfurt, Germany. You can delete all content provided or pieces of it anytime you wish.
+
+- We will work hard to provide protection for users' information security to prevent information loss, improper use, unauthorized access or disclosure. And use various security protection measures within a reasonable security level to ensure the security of information. 
+
+- We will work hard to protect your personal information, but please understand that there is no "perfect security measure" on the Internet. We will provide corresponding security measures to protect your information according to existing technology and provide reasonable security guarantees. We will do our best to prevent your information from being leaked, damaged or lost.
+
+***
+***
+***
+
+###### 7. To California Residents
+
+Under the applicable California Consumer Privacy Act (“CCPA”), you have certain rights with respect to your personal information collected by us for business purposes. Please note that this section applies only to people who live in California. Your rights include:
+
+- The right to know about the personal information a business collects about you how it is used and shared.
+
+- The right to delete the information collected from you.
+
+- The right to opt-out of receiving personalized ads. Fashion Lookbook currently doesn't contain any ads.
+
+- The right to non-discrimination for exercising your CCPA rights.
+
+***
+***
+***
+
+###### 8. To EU Users
+
+Under the applicable General Data Protection Regulation (“GDPR”), you have certain rights with respect to your personal information collected by us for business purposes. Please note that this section applies only to people who live in EU. Your rights include:
+
+- The right to obtain certain information about our processing, including: the purposes of processing the data; the categories of personal data processed; the recipients who receive your personal data; how long we store your personal data.
+
+- The right to receive a copy of any personal data which we process about you, in a commonly used and machine-readable format.
+
+- The right to delete.
+
+- The right to restrict data processing of your personal data.
+
+- The right to object to the processing of your personal data.
+
+- The right to withdraw your consent you have granted to us.
+
+- The right to raise a complaint with the relevant data protection authority, if you think that any of your rights have been infringed by us.
+
+- The right not to be subject to automated decision-making in relation to your personal data. We can confirm that we do not use automated decision-making.
+
+- The right to be notified in the event of a personal data breach which is likely to result in a high risk to your rights.
+
+***
+***
+***
+
+###### 9. Children Under 13
+
+Fashion Lookbook mainly provides its products and services to people over 13 years old (or the prescribed age in your country/region). If you are the guardian of a child user under the age of 13 (or the prescribed age in your country/region), we remind you to properly perform guardianship duties to protect the safety of children's personal information. In addition, please guide and help the children under your supervision during the use of our products and services. If you are a child user under the age of 13 (or the prescribed age in your country/region), please read this policy carefully with the assistance and assistance of your parents or guardians before using our products and services, and use our services or provide us with information with the consent of your parents or guardians. If we learn that our products have accidentally collected children's personal information, we will delete the relevant information as soon as possible.
+
+***
+***
+***
+
+###### 10. Contact Us
+
+If you have any suggestions or requests, please feel free to contact us via "Support" in the application or by sending an email to lara.kreisz@gmx.de.
+
+***
+***
+***
+
+###### 11. Changes to This Privacy Policy
+
+According to Fashion Lookbook's operational needs or the promulgation of relevant laws and regulations, we need to update or revise our privacy policy from time to time. These updates and amendments will also form part of this policy and have the same effect as this policy. When there are major changes to the terms of this policy, for example, changes of the purpose, method, and scope of personal information collection, we will remind you by means of pop-up notifications so that you can keep abreast of any changes made to this policy. Please note that your use or continued use of the products and/or services we provide means that you fully understand and agree to the entire content of this privacy policy (including updated versions).
+
