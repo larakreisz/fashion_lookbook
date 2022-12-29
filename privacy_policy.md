@@ -93,6 +93,24 @@ Cookies are text files created on your device by the web server. In order to pro
     **Firebase Cloud Functions:** We use cloud functions to do the "heavy lifting" in the background, which is required to give you a smooth user experience. Cloud functions are used whenever you follow or unfollow a lookbook or whenever you like or unlike a post. Those action could be perfomrmed through using your smartphones RAM, but it would be much slower. Whenever a cloud function will be triggered, the execution will take place in Firebase's data center in Frankfurt, Germany.
     
     [Firebase SDK Privacy Policy](https://policies.google.com/privacy)
+    
+    
+    RevenueCat SDK:
+
+    The app contains functions to purchase paid content via the provider of the respective device's app store (Google for Android devices and Apple for iOS devices). The app uses the technical interface provided by the provider to determine whether a purchase has been made. This involves communication with the provider's app store. The data transmitted in this way are processed in accordance with the data protection regulations of the provider and are not accessible to us.
+
+    The app uses the RevenueCat product from Revenue Cat, Inc. (hereinafter “RevenueCat”) based at 633 Tarava St. Suite 101, San Francisco, CA 94116 USA to manage and analyze in-app purchases.
+
+    The transmission takes place in accordance with the provisions of Art. 46 GDPR. RevenueCat saves or processes the data and prepares it for Cuteberry UG (haftungsbeschränkt) in a web interface. RevenueCat stores the data in the USA or Europe and is subject to the EU GDPR (EU 2016/679) via DPA: https://www.revenuecat.com/dpa
+
+    You agree to the data collection by Cuteberry UG (haftungsbeschränkt) and the transmission to RevenueCat. If you do not want the third-party provider to save the data you have provided, you must refrain from using the app.
+
+    In order to have your own data deleted from the database at Firebase or RevenueCat, you can request this at any time by email to lara.kreisz@gmx.de (with the note "Deletion of my data at RevenueCat"). If this does not happen, the data will be deleted at the latest after the statutory retention periods. Reference is made to the General Terms and Conditions and Privacy Policy of RevenueCat:
+
+    Terms and Conditions: https://www.revenuecat.com/terms
+    Privacy Policy: https://www.revenuecat.com/privacy
+
+    The data that is stored by RevenueCat and prepared for analysis can be viewed at the following link: https://www.revenuecat.com/dpa
 
 
 - Transfer
