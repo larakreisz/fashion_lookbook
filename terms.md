@@ -1,5 +1,5 @@
 ##  Terms of Service
-----------------
+
 
 Effective Date：November 1, 2022
 
