@@ -24,8 +24,8 @@ We have an exclusive offer tailored specifically for fashion bloggers! Write an 
 <b>Other highlights:</b> Animated Splash Screen, Shimmer Loading Effect, In-App-Purchase, Report System for Objectionable Content and Abusive Users, Create-Read-Update-Delete
 
 
-## Architecture
-![Architektur_2023-07-12-02](https://github.com/larakreisz/fashionbook/assets/91203178/2e2ccebd-abf6-4a90-b9ea-76eada4ad063)
+//## Architecture
+//![Architektur_2023-07-12-02](https://github.com/larakreisz/fashionbook/assets/91203178/2e2ccebd-abf6-4a90-b9ea-76eada4ad063)
 
 
 <div><br></div>
