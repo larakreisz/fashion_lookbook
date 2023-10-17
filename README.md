@@ -17,11 +17,6 @@ We have an exclusive offer tailored specifically for fashion bloggers! Write an 
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp; <b>Google Play Store: </b> <a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook&gl=DE">Fashion Lookbook (2022/2023, Flutter)</a></div> 
 
 
-## Tech Stack and Other Highlights
-
-<b>Tech Stack:</b> Flutter, Firebase Authentication, Firebase NoSQL Database, Firebase Cloud Storage, Google Cloud Functions, Bloc State Management
-
-<b>Other highlights:</b> Animated Splash Screen, Shimmer Loading Effect, In-App-Purchase, Report System for Objectionable Content and Abusive Users, Create-Read-Update-Delete
 
 
 
