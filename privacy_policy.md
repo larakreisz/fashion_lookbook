@@ -3,7 +3,7 @@ Privacy Policy
 
 Effective Date：November 22, 2023
 
-Fashion Lookbook is a digital fashion lookbook application provided by Midnightcraft, a brand operated by Cuteberry UG (haftungsbeschränkt). Fashion Lookbook respects and protects users’ personal privacy. Please put more emphasis on the bolded terms in this policy, which have a significant relationship with your rights and interests (possibly). Before using or continuing to use our products and services, please read carefully and fully understand this policy.
+Fashion Lookbook is a digital fashion lookbook application provided by CUTEBERRY UG (haftungsbeschränkt). Fashion Lookbook respects and protects users’ personal privacy. Please put more emphasis on the bolded terms in this policy, which have a significant relationship with your rights and interests (possibly). Before using or continuing to use our products and services, please read carefully and fully understand this policy.
 
 **This policy stipulates the personal information of minors in Article 9. If you are the legal guardian of the relevant minor user, please read carefully the terms on the protection of minor information and choose whether to agree to this policy. At the same time, please teach minors to enhance their personal information protection awareness and ability, and do not provide any personal information to any product and service provider without your consent; If you are a relevant minor user, please read this policy carefully with the accompany and help of your parents or guardians, and use our products and services or provide us with information with the consent of your parents or guardians.**
 
