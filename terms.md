@@ -1,4 +1,4 @@
-# Terms of Use
+# Fashion Lookbook | Terms of Use
 
 
 Effective Date：April 1, 2023
