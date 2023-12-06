@@ -1,4 +1,4 @@
-Privacy Policy  
+Fashion Lookbook | Privacy Policy  
 ----------------
 
 Effective Date：November 22, 2023
