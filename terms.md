@@ -1,7 +1,7 @@
 # Fashion Lookbook | Terms of Use
 
 
-Effective Date：April 1, 2023
+Effective Date：November 1, 2023
 
 These Terms of Use (or “Terms”, “Terms of Service”) govern your use of Fashion Lookbook, except where we expressly state that separate terms (and not these) apply and provide information about the Fashion Lookbook Service (the “Service”), outlined below. When you create a Fashion Lookbook account or use Fashion Lookbook, you agree to these terms. 
 
@@ -18,12 +18,12 @@ We provide ways for you to create lookbooks for different occasions. You can eit
 
 #### **Price**
 
-We charge you a monthly fee of € 1.49 for using our services. Subscription auto-renews before the end of the current period, unless canceled 24-hours in advance. You may manage your subscriptions and turned off auto-renewal from your Apple App Store / Google Play Store account settings. Subscription canceled during the trial, if offered, will not be charged. If you cancel a subscription purchased from an app on Google Play / Apple App Store, you will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The cancellation goes into effect after the current billing period has passed. You are responsible for all carrier data plans, Internet fees, and other fees and taxes associated with your use of our services. 
+Optionally, you may subscribe to 'Wardrobe Guardian' for a monthly fee of €1.49. 'Wardrobe Guardian' enables you to securely store your lookbooks in the Cloud. Subscription auto-renews before the end of the current period, unless canceled 24-hours in advance. You may manage your subscriptions and turned off auto-renewal from your Apple App Store / Google Play Store account settings. Subscription canceled during the trial, if offered, will not be charged. If you cancel a subscription purchased from an app on Google Play / Apple App Store, you will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The cancellation goes into effect after the current billing period has passed. You are responsible for all carrier data plans, Internet fees, and other fees and taxes associated with your use of our services. 
 
 
 #### **Duration, renewal and termination**
 
-You can stop using our app at any time for any reason by removing your monthly subscription and deleting your account. We may modify, suspend or terminate your access to or use of our services, if you violate the Terms of Use.
+You may cease utilizing the Wardrobe Guardian by canceling your monthly subscription at any time. Additionally, you have the option to discontinue using our app at your discretion by deleting your account. We may modify, suspend or terminate your access to or use of our services, if you violate the Terms of Use.
 
 
 #### **Features for end-users with disabilities**
@@ -208,5 +208,6 @@ Remember to always follow the law when offering to sell or buy other regulated g
 -	You may find content you don’t like but doesn’t violate the Community Guidelines. If that happens, you can unfollow the lookbook who posted it. If there's something you don't like in a comment on one of your posts, you can delete that comment.
 -	Many disputes and misunderstandings can be resolved directly between members of the community. If one of your photos was posted by someone else, you could try commenting on the post and asking the person to take it down. If that doesn’t work, you can file a copyright report. If you believe someone is violating your trademark, you can file a trademark report. Don't target the person who posted it by posting screenshots and drawing attention to the situation because that may be classified as harassment.
 -	We may work with law enforcement, including when we believe that there’s risk of physical harm or threat to public safety.
+
 
 
